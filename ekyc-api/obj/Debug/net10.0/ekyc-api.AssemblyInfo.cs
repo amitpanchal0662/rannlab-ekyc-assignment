@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ekyc-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aef1598c23a82de890fe541b8f173ea00f8c9d62")]
 [assembly: System.Reflection.AssemblyProductAttribute("ekyc-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ekyc-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
